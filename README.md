@@ -1,7 +1,6 @@
 <h3> "겸손하지만 자신있게"</h3>
 
 <h1 align="left">HELLO. I'm Youngbeom Hwang</h1>
-<h3 align="left">A passionate frontend developer from Korea</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bengaldr0gon" alt="bengaldr0gon" /></a> </p>
 
