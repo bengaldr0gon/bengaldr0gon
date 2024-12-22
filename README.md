@@ -1,4 +1,4 @@
-<h3> "겸손하지만 자신있게"</h3>
+<h3> "겸손하지만 자신있게."</h3>
 
 <h1 align="left">HELLO. I'm Youngbeom Hwang</h1>
 
